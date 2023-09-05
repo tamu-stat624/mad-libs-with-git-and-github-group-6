@@ -13,9 +13,9 @@
 13. Material
 14. Activity
 15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+16. Number : 7
+17. Unit of time : Hours
+18. Different Activity : Playing Football
+19. Adjective : Breakable
+20. Vehicle : Porche
+21. Your Name : Group Six

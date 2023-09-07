@@ -1,8 +1,8 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
+1. Niharika
+2. Unique
+3. Different
+4. Yellow
+5. September
 6. Number: 69
 7. Noun (Plural): Dolphins
 8. Noun (Plural): Teeth

@@ -3,19 +3,19 @@
 3. Adjective
 4. Color
 5. Month
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. Number: 69
+7. Noun (Plural): Dolphins
+8. Noun (Plural): Teeth
+9. Noun: Child zombie
+10. Room Name: 420-A
 11. Liquid : Coke
 12. Adjective : tiny
 13. Material : marble
 14. Activity : gaming
 15. Adverb : hungrily
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+16. Number : 7
+17. Unit of time : Hours
+18. Different Activity : Playing Football
+19. Adjective : Breakable
+20. Vehicle : Porche
+21. Your Name : Group Six

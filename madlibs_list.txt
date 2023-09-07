@@ -8,11 +8,11 @@
 8. Noun (Plural): Teeth
 9. Noun: Child zombie
 10. Room Name: 420-A
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+11. Liquid : Coke
+12. Adjective : tiny
+13. Material : marble
+14. Activity : gaming
+15. Adverb : hungrily
 16. Number : 7
 17. Unit of time : Hours
 18. Different Activity : Playing Football
